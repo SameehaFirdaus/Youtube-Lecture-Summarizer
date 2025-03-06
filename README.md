@@ -17,21 +17,3 @@ A Python application that summarizes YouTube lectures by extracting transcripts 
    git clone https://github.com/SameehaFirdaus/youtube-lecture-summarizer.git
    cd youtube-lecture-summarizer
    
-Install the required packages:
-
-bash
-Run
-Copy code
-pip install -r requirements.txt
-Set up your OpenAI API key in an environment variable:
-
-bash
-Run
-Copy code
-export OPENAI_API_KEY='your-api-key-here'
-Run the application:
-
-bash
-Run
-Copy code
-streamlit run app.py
